@@ -1,0 +1,11 @@
+export const GET_ALL_PHOTOS = "GET_ALL_PHOTOS";
+export const LOADING = "LOADING";
+export const ERROR = "ERROR";
+export const SUCCESS = "SUCCESS";
+export const DELETE_PHOTO = "DELETE_PHOTO";
+export const ADD_PHOTO = "ADD_PHOTO";
+export const CLOSE_TOAST = "CLOSE_TOAST";
+export const TOGGLE_ADD_MODAL = "TOGGLE_ADD_MODAL";
+export const PHOTOS_LOADING = "PHOTOS_LOADING";
+export const SEARCH_FOR_PHOTOS = "SEARCH_FOR_PHOTOS";
+export const SET_IMAGE_ID = "SET_IMAGE_ID";
